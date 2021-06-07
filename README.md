@@ -1,5 +1,7 @@
 # Race Horology
 
+test 
+
 Race Horology ist ein Zeitnahmeprogramm für Rennsportarten – vorwiegend für Ski-Alpin Rennen.
 
 Es unterstützt als Zeitmessgerät derzeit den ALGE TdC8000/8001 und lehnt sich beim Funktionsumfang an das im deutschen Raum sehr verbreitete DSVAlpin an.
